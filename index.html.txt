@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <title>我的第一個 Vercel 網站</title>
+</head>
+<body>
+    <h1>網站正在建設中！</h1>
+    <p>這證明我的部署流程已經成功了！</p>
+</body>
+</html>
